@@ -6,5 +6,6 @@ Dette prosjektet fokuserer på bærekraftige programmeringspraksiser.
 - Git Repository: https://github.com/Project-X-PRO1000/Milestone-1---Project-Planning
 - Teaminformasjon
 - Prosjektbeskrivelse
-- Produkt-backlog
+- Produkt-backlog ---> https://github.com/orgs/Project-X-PRO1000/projects/2
 - WBS og Gantt-diagrammer
+  
